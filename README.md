@@ -1,70 +1,133 @@
-# Getting Started with Create React App
+# Vituvizuri
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+    <a href="">
+        <!-- <img src="https://drive.google.com/file/d/1BGg67LXzwpdSsh1XkjaySfHGARdfyxMj/view?usp=sharing"> -->
+    </a>
+</div>
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+```shell
+    
+```
 
-### `npm start`
+<div align="center">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)]()
+<br />
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)]()
+<br />
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5b677e607def4466b8084eb76be4f0d7)]()
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> Vituvizuri is  an ecommerce  web interface that can be used for obtaing  diffrent fashion designers. The web deals with a large range a of product from hoodies to shoes and provides apatform where a user can obtain diffrent desinges of there choice deDeveloped on there test.
 
-### `npm run build`
+> The source code is open so that you can download the source code and set it up with ease if you would like to have your own exclusive environment.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Web Site System](https://media.giphy.com/media/Qw4X3FPv7GxR0r3Lzvq/giphy.gif)()
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## App Screenshots
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+|                                                                                    Desktop App Home                                                                                  |                                                                                   Desktop App Products                                                                              |                                                                               Products in Cart                                                                                  |                                                                           About us                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://images.unsplash.com/photo-1630750796085-5fa9d4dd2818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMGVjb21tZXJjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60" title="" width="100%" crossorigin> | <img src="https://images.unsplash.com/photo-1630750796085-5fa9d4dd2818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMGVjb21tZXJjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60" title="" width="100%" crossorigin> | <img src="https://images.unsplash.com/photo-1630750796085-5fa9d4dd2818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMGVjb21tZXJjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60" title="" width="100%" crossorigin> | <img src="https://images.unsplash.com/photo-1630750796085-5fa9d4dd2818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMGVjb21tZXJjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60" title="" width="100%" crossorigin> |
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Folder Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## What (This Vituvizuri) ?
 
-## Learn More
+The concept behind vituvizuri app was to help designers createn a platform 
+where they can showase there products and also help university students  .
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## What (The advantage) ?
 
-### Code Splitting
+- The app's responsive web interface helps you to browse products  in any resolution device.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## The project has been Developed and works in: 
 
-### Analyzing the Bundle Size
+### Platforms
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+| Platform          | Status     |
+| ----------------- | ---------- |
+| Microsoft Windows | Developing |
+| Linux             | Developed  |
+| Mac os            | Developed  |
+| Android           | Developed  |
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### Built With
 
-### Advanced Configuration
+- [React Js](https://reactjs.org) - client side
+- [Ruby On Rails](https://rubyonrails.org) - backend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+#### Clone Project
 
-### Deployment
+```shell
+git clone "git@github.com:davidnene/vitu-vizuri.git"
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This Command will copy a full project to your local environment
 
-### `npm run build` fails to minify
+## React side
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Setting up React side
+
+
+```shell
+    cd vituvizuri
+    npm install --prefix client
+    npm start --prefix client
+```
+
+### Run react side Project
+
+Run `npm start` to start rails server on `http://localhost:4000/`
+
+### Setting backend  ruby on rails
+
+### while on the root folder run to set up required gems
+
+```shell
+  bundle install
+```
+### Run rails Project
+
+Run 
+`bundle install`
+`rails db:migrate db:seed`
+`rails s` 
+to start rails server on `http://localhost:3000/`
+
+
+## REST API
+
+### API Reference
+
+- PC - Personal Computer
+- thismypc.com:5000 - This is Thismypc web site API url. You can use your own localhost server link instead default Link.
+- ":userID" - User ID
+- ":computerKey" - Computer Key
+
+### Web API
+
+| Web API                      | URL                                                 | Description |
+| ---------------------------- | ----------------------------------------------------| ----------- |
+| Products list                | http://localhost:3000/products                      | -           |
+| purchase                     | http://localhost:3000/purchases                     | -           |
+| user                         | http://localhost:3000/users                         | -           |
+### App API
+
+| APP API             | URL                                        | Description |
+| ------------------- | ------------------------------------------ | ----------- |
+| User Login          | http://localhost:3000/login                | -           |
+| User Form           | http://localhost:3000/                     | -           |
+## Database
+Ruby on rails.
