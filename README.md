@@ -128,6 +128,6 @@ to start rails server on `http://localhost:3000/`
 | APP API             | URL                                        | Description |
 | ------------------- | ------------------------------------------ | ----------- |
 | User Login          | http://localhost:3000/login                | -           |
-| User Form           | http://localhost:3000/                     | -           |
+
 ## Database
 Ruby on rails.
