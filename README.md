@@ -34,12 +34,16 @@
 
 |                                                                                    Desktop App Home                                                                                  |                                                                                   Desktop App Products                                                                              |                                                                               Products in Cart                                                                                  |                                                                           About us                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://images.unsplash.com/photo-1630750796085-5fa9d4dd2818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMGVjb21tZXJjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60" title="" width="100%" crossorigin> | <img src="https://images.unsplash.com/photo-1630750796085-5fa9d4dd2818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMGVjb21tZXJjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60" title="" width="100%" crossorigin> | <img src="https://images.unsplash.com/photo-1630750796085-5fa9d4dd2818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMGVjb21tZXJjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60" title="" width="100%" crossorigin> | <img src="https://images.unsplash.com/photo-1630750796085-5fa9d4dd2818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMGVjb21tZXJjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60" title="" width="100%" crossorigin> |
+| <img src="https://i.ibb.co/Hg3QK9s/Screenshot-from-2022-10-14-01-32-04.png" title="" width="100%" crossorigin> | <img src="https://i.ibb.co/M1yQ9pt/Screenshot-from-2022-10-14-01-32-09.png" title="" width="100%" crossorigin> | <img src="https://i.ibb.co/xsVmdLm/Screenshot-from-2022-10-14-01-32-22.png" title="" width="100%" crossorigin> | <img src="https://i.ibb.co/VxScbxY/Screenshot-from-2022-10-14-01-32-14.png" alt="Screenshot-from-2022-10-14-01-32-31"  title="" width="100%" crossorigin> |
 
 
 ## Folder Structure
 
-
+<!-- <img src="https://i.ibb.co/L1Hn3RZ/Screenshot-from-2022-10-14-01-32-28.png" />
+<img src="https://i.ibb.co/xsVmdLm/Screenshot-from-2022-10-14-01-32-22.png" />
+<img src="https://i.ibb.co/VxScbxY/Screenshot-from-2022-10-14-01-32-14.png" />
+<img src="https://i.ibb.co/M1yQ9pt/Screenshot-from-2022-10-14-01-32-09.png"/>
+<img src="https://i.ibb.co/Hg3QK9s/Screenshot-from-2022-10-14-01-32-04.png"/> -->
 
 ## What (This Vituvizuri) ?
 
@@ -97,14 +101,11 @@ Run `npm start` to start rails server on `http://localhost:4000/`
 
 ```shell
   bundle install
+  rails db:migrate db:seed
 ```
 ### Run rails Project
 
-Run 
-`bundle install`
-`rails db:migrate db:seed`
-`rails s` 
-to start rails server on `http://localhost:3000/`
+Run `rails s` to start rails server on `http://localhost:3000/`
 
 
 ## REST API
