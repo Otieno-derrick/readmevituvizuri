@@ -38,13 +38,6 @@
 
 
 ## Folder Structure
-
-<!-- <img src="https://i.ibb.co/L1Hn3RZ/Screenshot-from-2022-10-14-01-32-28.png" />
-<img src="https://i.ibb.co/xsVmdLm/Screenshot-from-2022-10-14-01-32-22.png" />
-<img src="https://i.ibb.co/VxScbxY/Screenshot-from-2022-10-14-01-32-14.png" />
-<img src="https://i.ibb.co/M1yQ9pt/Screenshot-from-2022-10-14-01-32-09.png"/>
-<img src="https://i.ibb.co/Hg3QK9s/Screenshot-from-2022-10-14-01-32-04.png"/> -->
-
 ## What (This Vituvizuri) ?
 
 The concept behind vituvizuri app was to help designers createn a platform 
